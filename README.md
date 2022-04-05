@@ -1,4 +1,4 @@
-# AlarmClock
+# AlarmClock                         HOSPITAL MANAGEMENT SYSTEM
  from tkinter import *
 from tkinter import ttk
 import random
